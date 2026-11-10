@@ -16,6 +16,17 @@
 
 `PHP` `Laravel` `C#` `ASP.NET` `Python` `JavaScript` `Next.js` `Tailwind CSS` `SQL` `Chrome Extensions`
 
+## Açık kaynak projeler
+
+| Proje | Ne yapar | Teknoloji |
+|---|---|---|
+| [domain-takipcisi](https://github.com/harunercoban2/domain-takipcisi) | Alan adı bitiş tarihlerini RDAP/WHOIS ile takip eder, takvime hatırlatma ekler | Node.js, sıfır bağımlılık |
+| [google-siralama-takipcisi](https://github.com/harunercoban2/google-siralama-takipcisi) | Anahtar kelime bazında Google sıralama takibi, ilk 10 rakip, günlük kontrol | Node.js, SERP API |
+| [youtube-transkript-ozet](https://github.com/harunercoban2/youtube-transkript-ozet) | YouTube transkriptini alıp ChatGPT/Claude'da özetleten Chrome eklentisi | Chrome MV3 |
+| [video-kare-secici](https://github.com/harunercoban2/video-kare-secici) | Videolardan net ve birbirinden farklı kareleri otomatik seçer | Python, OpenCV, FFmpeg |
+
+Ücretsiz web araçları: [Servis Masası — teknik servis programı](https://harunercoban.com/yazilim/teknik-servis-programi) · [tüm yazılımlar](https://harunercoban.com/yazilim)
+
 ## Deneyim
 
 - **Excary** — Kurucu & Full Stack Developer (2014 – günümüz)
